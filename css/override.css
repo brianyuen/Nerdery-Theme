@@ -364,6 +364,10 @@ table.mainTable td {
     border-top-right-radius: 3px !important;
 }
 
+.heading h2 {
+  background-image: none !important;
+}
+
 .ui-corner-all,
 #navigationTabs li ul,
 #search form {
