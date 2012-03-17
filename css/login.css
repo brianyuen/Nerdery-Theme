@@ -36,8 +36,9 @@ orange: #ba560d
                           nerdery.com
 */
 
+
 body {
-	background-color:	#f4f4f4;
+	background-color:	#27343C;
 	font-family:		"Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
 	text-align:			center;
 	font-size:			12px;
@@ -51,6 +52,7 @@ body {
 	padding:			160px 20px 5px 20px;
 	margin:				20px auto 0 auto;
 	width:				440px;
+	background:			url('') no-repeat center top; /* PUT CLIENT LOGO HERE!!! */
 }
 
 h1 {
